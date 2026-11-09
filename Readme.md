@@ -1,7 +1,3 @@
----
-title: CG HW1 - 小畫家
-
----
 
 ---
 title: CG HW1 - 小畫家
@@ -81,7 +77,7 @@ for (int x = x1i; x <= x2i; x++) {
 
 ### Circle：中點圓演算法
 
-![circle](images/circle.png.png)
+![circle](images/circle.png)
 
 #### 八分對稱
 
